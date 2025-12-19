@@ -10,9 +10,9 @@
 
 ## Week 1 – Dev Environment & Git Basics
 
-* [ ] Install VS Code + extensions (C#, TS, ESLint, Prettier)
-* [ ] Git basics: clone, add, commit, push, pull
-* [ ] GitHub account cleaned up
+* [x] Install VS Code + extensions (C#, TS, ESLint, Prettier)
+* [x] Git basics: clone, add, commit, push, pull
+* [x] GitHub account cleaned up
 * [ ] Azure DevOps account created
 * [ ] Learn basic branching
 
