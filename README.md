@@ -1,4 +1,4 @@
-# 20-Week Full-Stack Software Engineer Plan (Simple & Followable)
+# 20-Week Full-Stack Software Engineer Plan (Simple & Followable) by GPT
 
 **How to use this**
 
