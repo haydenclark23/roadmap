@@ -14,12 +14,12 @@
 * [x] Git basics: clone, add, commit, push, pull
 * [x] GitHub account cleaned up
 * [ ] Azure DevOps account created
-* [ ] Learn basic branching
+* [x] Learn basic branching
 
 **Build**
 
-* [ ] Repo with main + feature branches
-* [ ] At least 5 clean commits
+* [x] Repo with main + feature branches
+* [x] At least 5 clean commits
 
 **Watch**
 
