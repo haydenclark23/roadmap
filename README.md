@@ -30,10 +30,10 @@
 
 ## Week 2 – Git (Team-Level) & Dev Workflow
 
-* [ ] Pull requests
-* [ ] Merge vs rebase
-* [ ] Resolve merge conflicts
-* [ ] Read someone else’s code
+* [x] Pull requests
+* [x] Merge vs rebase
+* [x] Resolve merge conflicts
+* [x] Read someone else’s code
 
 **Build**
 
