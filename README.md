@@ -37,7 +37,7 @@
 
 **Build**
 
-* [ ] Open PRs to your own repo
+* [x] Open PRs to your own repo
 * [ ] Practice rebasing
 
 **Watch**
@@ -49,14 +49,14 @@
 
 ## Week 3 – React Fundamentals
 
-* [ ] React + TypeScript setup (Vite)
-* [ ] Components & props
-* [ ] useState, useEffect
-* [ ] Controlled forms
+* [x] React + TypeScript setup (Vite)
+* [x] Components & props
+* [x] useState, useEffect
+* [x] Controlled forms
 
 **Build**
 
-* [ ] Small React app with forms & state
+* [x] Small React app with forms & state
 
 **Watch**
 
@@ -69,12 +69,12 @@
 
 * [ ] Component composition
 * [ ] Lifting state
-* [ ] Folder structure
+* [x] Folder structure
 * [ ] Basic performance awareness
 
 **Build**
 
-* [ ] Multi-page React app
+* [x] Multi-page React app
 
 **Watch**
 
