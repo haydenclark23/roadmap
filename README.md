@@ -67,10 +67,10 @@
 
 ## Week 4 – React Patterns & Structure
 
-* [ ] Component composition
-* [ ] Lifting state
+* [x] Component composition
+* [x] Lifting state
 * [x] Folder structure
-* [ ] Basic performance awareness
+* [x] Basic performance awareness
 
 **Build**
 
@@ -84,10 +84,10 @@
 
 ## Week 5 – Advanced Frontend
 
-* [ ] React Router
+* [x] React Router
 * [ ] Global state (Context or Zustand)
-* [ ] API calls
-* [ ] Loading & error states
+* [x] API calls
+* [x] Loading & error states
 
 **Build**
 
