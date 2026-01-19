@@ -119,14 +119,14 @@
 
 ## Week 7 – ASP.NET Core Basics
 
-* [ ] ASP.NET Core Web API
-* [ ] Controllers
+* [x] ASP.NET Core Web API
+* [x] Controllers
 * [ ] Dependency Injection
 * [ ] Middleware
 
 **Build**
 
-* [ ] Basic CRUD API
+* [x] Basic CRUD API
 
 **Watch**
 
