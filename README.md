@@ -137,10 +137,10 @@
 
 ## Week 8 – REST APIs & Clean Backend Code
 
-* [ ] DTOs
-* [ ] Validation
-* [ ] Logging
-* [ ] Swagger
+* [x] DTOs
+* [x] Validation
+* [x] Logging
+* [x] Swagger
 
 **Build**
 
